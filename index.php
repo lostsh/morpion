@@ -55,8 +55,9 @@ session_start();
             width: 100%;
             height: 100%;
         }
+        /*
         table .zero{
-        }
+        }*/
         /*
         table .one{
             background-color: black;
