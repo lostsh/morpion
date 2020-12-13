@@ -125,7 +125,7 @@ session_start();
                      */
                     $winer = whoWin($gameStatus);
                     if($winer != 0){
-                        echo("<p class=\"vicMsg\">The winer is <strong>Player ".$winer."</strong>.<a href=\"index.php\">New Game</a></p>");
+                        echo("<p class=\"vicMsg\">The winner is <strong>Player ".$winer."</strong>.<a href=\"index.php\">New Game</a></p>");
                         $gameStatus = initTab();
                         $_SESSION['gameStatus'] = $gameStatus;
                     }else if(isMatrixFull($gameStatus)){
