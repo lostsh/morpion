@@ -1,7 +1,7 @@
 # Morpion
 ceci est une version très minimaliste du jeu du morpion (TIC-TAC-TOE), basée sur l'utilisation des `sessons` en PHP.
 
-If you want to play it, it is available on [this site](https://lostsh.github.io/assets/blog/2020-11-20/morpion.html). You just have to click "play now".
+If you want to play it, it is available on [this site](https://more-pion.herokuapp.com/). You just have to click "play now".
 
 The project repository site is available at [this address](https://lostsh.github.io/morpion/), and the repository code is [here on github](https://github.com/lostsh/morpion).
 
